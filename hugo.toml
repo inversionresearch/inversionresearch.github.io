@@ -1,8 +1,0 @@
-baseURL = 'https://inversionresearch.github.io/'
-languageCode = 'en-us'
-title = 'Inversion Research'
-theme = "inversion-theme" # IMPORTANT: Set the theme name here
-
-[params]
-    # Optional: Add a contact email to show on the page
-    contactEmail = "gkulp@inversionresearch.org"
